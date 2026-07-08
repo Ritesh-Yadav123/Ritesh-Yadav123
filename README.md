@@ -19,6 +19,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PrateekKumar15&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=100&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrateekKumar15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2&custom_title=My%20loved%20languags" height="150" alt="languages graph"  />
+</div>
+
+
 # 💫 About Me
 
 <img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
